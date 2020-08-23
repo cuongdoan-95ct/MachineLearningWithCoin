@@ -15,7 +15,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "RootPathCoin",
+            "outputPath": "docs/",
             "index": "apps/learn-huobi-api/src/index.html",
             "main": "apps/learn-huobi-api/src/main.ts",
             "polyfills": "apps/learn-huobi-api/src/polyfills.ts",
